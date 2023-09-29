@@ -1,0 +1,6 @@
+asyncio==3.4.3
+py-cord==2.4.0
+pytz==2022.7.1
+discord
+discord.ext
+discord.ui
