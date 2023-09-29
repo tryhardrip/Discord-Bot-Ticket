@@ -15,7 +15,7 @@ Hi Im ***Tryhardrip/Amir***
     "category_id_3": "Category ID 3",
     "category_id_4": "Category ID 4",
     "team_role_id_1": "RoleID Ticket Support",
-    "log_channel_id": "Log Channe Ticket ID"
+    "log_channel_id": "Log Channel Ticket ID"
 }
 ```
 So in file config file in config.json in Main
