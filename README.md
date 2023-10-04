@@ -1,4 +1,3 @@
-Hi Im ***Tryhardrip/Amir***
 # Ticket Bot Discord
 ```json
 {
@@ -21,3 +20,4 @@ Hi Im ***Tryhardrip/Amir***
 So in file config file in config.json in Main
 
 So is file not attack not This is **Ticket Bot discord!**
+<p><b>https://discord.gg/VYdM6BXCnb</b></p>
