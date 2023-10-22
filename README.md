@@ -17,7 +17,6 @@
     "log_channel_id": "Log Channel Ticket ID"
 }
 ```
-So in file config file in config.json in Main
+***So, in the config file named 'config.json' in the 'Main' directory, there is a file. It's not an attack file, but rather a file for a Discord Ticket Bot!***
 
-So is file not attack not This is **Ticket Bot discord!**
 <p><b>https://discord.gg/VYdM6BXCnb</b></p>
